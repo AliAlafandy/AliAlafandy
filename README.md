@@ -4,13 +4,13 @@
 ### Ali Alafandy
 ### YouTuber and Many Activities
 ### An 🇪🇬
-
+--------------------------------------------------------
 ## Age
 ### 14
-
+--------------------------------------------------------
 ## Born
 ### 12/01/2009
-
+--------------------------------------------------------
 ## About Me
 ### LGBTQ+ and Gays's Hater
 ### Friday Night Funkin' Charter "I tring to be a Coder"
