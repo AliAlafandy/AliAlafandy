@@ -1,19 +1,19 @@
-### Yoo Yoo Alio 😎
+# Yoo Yoo Alio 😎
 ------------------------------------------------------
 ## I'm
-# Ali Alafandy
-# YouTuber and Many Activities
-# An 🇪🇬
+### Ali Alafandy
+### YouTuber and Many Activities
+### An 🇪🇬
 ------------------------------------------------------
 ## Age
-# 14
+### 14
 ------------------------------------------------------
 ## Born
-# 12/01/2009
+### 12/01/2009
 ------------------------------------------------------
 ## About Me
-# LGBTQ+ and Gays's Hater
-# Friday Night Funkin' Charter "I tring to be a Coder"
+### LGBTQ+ and Gays's Hater
+### Friday Night Funkin' Charter "I tring to be a Coder"
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
