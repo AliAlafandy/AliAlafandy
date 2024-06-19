@@ -14,6 +14,15 @@
 ## About Me
 ### LGBTQ+ and Gays's Hater
 ### Friday Night Funkin' Charter "I tring to be a Coder"
+--------------------------------------------------------
+## My Favorite Games:
+### Friday Night Funkin'
+### Minecraft
+### Among Us
+--------------------------------------------------------
+## My Favorite Hobbies:
+### Art
+### Game
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
