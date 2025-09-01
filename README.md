@@ -17,12 +17,17 @@
 --------------------------------------------------------
 ## My Favorite Games:
 ### Friday Night Funkin'
+### Baldi's Basics
 ### Minecraft
 ### Among Us
 --------------------------------------------------------
 ## My Favorite Hobbies:
 ### Art
 ### Game
+--------------------------------------------------------
+## My Server Discord
+- https://discord.gg/ZTH67q6tPT
+- https://discord.gg/cwdWXZgCt5
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
