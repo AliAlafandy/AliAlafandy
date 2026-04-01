@@ -35,14 +35,15 @@ Yoo Yoo Alio 😎.
 | Social App | Social Name |
 | ---------- | ----------- |
 | ![](documents/apps/youTube.png) | [YouTube](https://youtube.com/@alialafandy) |
-| ![](documents/apps/disCord.png) | [Discord](``@alialafandy``) |
+| ![](documents/apps/youTube.png) | [YouTube Arabic](https://youtube.com/@alialafandyarabic) |
+| ![](documents/apps/disCord.png) | Discord: @alialafandy |
 --------------------------------------------------------
 ## My Server Discord:
 | Server Icon | Server Link |
 | ----------- | ----------- |
-| ![](documents/images/Ali_Neon.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
-| ![](documents/images/Ali_Neo.png) | [Ali Alafandy ReCreation](https://discord.gg/cwdWXZgCt5) |
-| ![](documents/images/Ali_Arabic.png) | [سيرفر علي الأفندي](https://discord.gg/dNvYV8zSQs) |
+| ![](documents/images/ellawy.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
+| ![](documents/images/allawy.png) | [Ali Alafandy ReCreation](https://discord.gg/cwdWXZgCt5) |
+| ![](documents/images/arabic.png) | [سيرفر علي الأفندي](https://discord.gg/dNvYV8zSQs) |
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
