@@ -2,24 +2,21 @@
 Yoo Yoo Alio 😎.
 --------------------------------------------------------
 ## I'm:
-### Ali Alafandy
-### YouTuber and Many Activities
-### An 🇪🇬
+### Ali Alafandy.
+### YouTuber and Many Activities.
+### An 🇪🇬.
 --------------------------------------------------------
 ## Age:
-### 16
+### 16.
 --------------------------------------------------------
 ## Born:
-### 12/01/2009
+### 12/01/2009.
 --------------------------------------------------------
 ## About Me:
-### LGBTQ+ and Gays's Hater
-### Friday Night Funkin' Charter "I tring to be a Coder"
+### LGBTQ+ and Gays's Hater.
+### Friday Night Funkin' Charter "I'm tring to be a Coder".
 --------------------------------------------------------
 ## My Favorite Games:
-
-| Game Icon | Game Name |
-| --------- | --------- |
 | ![](documents/apps/FNF.png) | [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) |
 | ![](documents/apps/soNic.png) | [Sonic The Hedgehog](https://sega.com/sonic-the-hedgehog) |
 | ![](documents/apps/baldisBasics.png) | [Baldi's Basics](https://basically-games.itch.io/baldis-basics) |
@@ -28,14 +25,15 @@ Yoo Yoo Alio 😎.
 | ![](documents/apps/robLox.png) | [Roblox](https://roblox.com) |
 --------------------------------------------------------
 ## My Favorite Hobbies:
-
-### Art
-### Game
+### Art.
+### Game.
+### Coding.
+--------------------------------------------------------
+## My Socials:
+| ![](documents/apps/youTube.png) | [YouTube](https://youtube.com/@alialafandy) |
+| ![](documents/apps/disCord.png) | [Discord](``@alialafandy``) |
 --------------------------------------------------------
 ## My Server Discord:
-
-| Server Icon | Server Name |
-| ----------- | ----------- |
 | ![](documents/images/Ali_Neon.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
 | ![](documents/images/Ali_Neo.png) | [Ali Alafandy ReCreation](https://discord.gg/cwdWXZgCt5) |
 | ![](documents/images/Ali_Arabic.png) | [سيرفر علي الأفندي](https://discord.gg/dNvYV8zSQs) |
