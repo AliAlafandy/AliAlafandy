@@ -17,14 +17,12 @@ Yoo Yoo Alio 😎.
 ### Friday Night Funkin' Charter "I'm tring to be a Coder".
 --------------------------------------------------------
 ## My Favorite Games:
-| Game Icon | Game Name |
-| --------- | --------- |
-| ![](documents/apps/FNF.png) | [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) |
-| ![](documents/apps/soNic.png) | [Sonic The Hedgehog](https://sega.com/sonic-the-hedgehog) |
-| ![](documents/apps/baldisBasics.png) | [Baldi's Basics](https://basically-games.itch.io/baldis-basics) |
-| ![](documents/apps/mineCraft.png) | [Minecraft](https://minecraft.net) |
-| ![](documents/apps/amongUs.png) | [Among Us](https://innersloth.com/games/among-us) |
-| ![](documents/apps/robLox.png) | [Roblox](https://roblox.com) |
+[![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
+[![Sonic the Hedgehog](documents/apps/soNic.png)](https://sega.com/sonic-the-hedgehog)
+[![Baldi's Basics](documents/apps/baldisBasics.png)](https://basically-games.itch.io/baldis-basics)
+[![Minecraft](documents/apps/mineCraft.png)](https://minecraft.net)
+[![Among Us](documents/apps/amongUs.png)](https://innersloth.com/games/among-us)
+[![Roblox](documents/apps/robLox.png)](https://roblox.com)
 --------------------------------------------------------
 ## My Favorite Hobbies:
 ### Art.
@@ -34,9 +32,9 @@ Yoo Yoo Alio 😎.
 ## My Socials:
 | Social App | Social Name |
 | ---------- | ----------- |
-| ![](documents/apps/youTube.png) | [YouTube](https://youtube.com/@alialafandy) |
-| ![](documents/apps/youTube.png) | [YouTube Arabic](https://youtube.com/@alialafandyarabic) |
-| ![](documents/apps/disCord.png) | Discord: @alialafandy |
+| ![](documents/apps/youTube.png) | [YouTube: Offical Channel](https://youtube.com/@alialafandy) |
+| ![](documents/apps/youTube.png) | [YouTube: Arabic Channel](https://youtube.com/@alialafandyarabic) |
+| ![](documents/apps/disCord.png) | Discord: ``@alialafandy`` |
 --------------------------------------------------------
 ## My Server Discord:
 | Server Icon | Server Link |
