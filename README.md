@@ -17,11 +17,11 @@
 ## My Favorite Games:
 
 [![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
-[![Sonic the Hedgehog](documents/apps/soNic.png)](https://sega.com/sonic-the-hedgehog)
+[![Sonic the Hedgehog](documents/apps/sonic.png)](https://sega.com/sonic-the-hedgehog)
 [![Baldi's Basics](documents/apps/baldisBasics.png)](https://basically-games.itch.io/baldis-basics)
 [![Minecraft](documents/apps/mineCraft.png)](https://minecraft.net)
 [![Among Us](documents/apps/amongUs.png)](https://innersloth.com/games/among-us)
-[![Roblox](documents/apps/robLox.png)](https://roblox.com)
+[![Roblox](documents/apps/roblox.png)](https://roblox.com)
 
 --------------------------------------------------------
 
