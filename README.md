@@ -16,12 +16,12 @@
 
 ## My Favorite Games:
 
-[![Friday Night Funkin'](documents/apps/FN.png)](https://ninja-muffin24.itch.io/funkin)
+[![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
 [![Sonic the Hedgehog](documents/apps/sonic.png)](https://sega.com/sonic-the-hedgehog)
-[![Baldi's Basics](documents/apps/baldisBasic.png)](https://basically-games.itch.io/baldis-basics)
-[![Minecraft](documents/apps/mineCraf.png)](https://minecraft.net)
-[![Among Us](documents/apps/amongU.png)](https://innersloth.com/games/among-us)
-[![Roblox](documents/apps/roblo.png)](https://roblox.com)
+[![Baldi's Basics](documents/apps/baldisBasics.png)](https://basically-games.itch.io/baldis-basics)
+[![Minecraft](documents/apps/mineCraft.png)](https://minecraft.net)
+[![Among Us](documents/apps/amongUs.png)](https://innersloth.com/games/among-us)
+[![Roblox](documents/apps/roblox.png)](https://roblox.com)
 
 --------------------------------------------------------
 
@@ -29,9 +29,9 @@
 
 | Social App | Social Icon | Social Name |
 | ---------- | ----------- | ----------- |
-| ![](documents/apps/youTub.png) | ![](documents/images/ellaw.png) | [Offical Channel](https://youtube.com/@alialafandy) |
-| ![](documents/apps/youTub.png) | ![]documents/images/arabi.png) | [Arabic Channel](https://youtube.com/@alialafandyarabic) |
-| ![](documents/apps/disCor.png) | ![](documents/images/ellaw.png) | ``@alialafandy`` |
+| ![](documents/apps/youTube.png) | ![](documents/images/ellawy.png) | [Offical Channel](https://youtube.com/@alialafandy) |
+| ![](documents/apps/youTube.png) | ![](documents/images/arabic.png) | [Arabic Channel](https://youtube.com/@alialafandyarabic) |
+| ![](documents/apps/disCord.png) | ![](documents/images/ellawy.png) | ``@alialafandy`` |
 
 --------------------------------------------------------
 
@@ -39,9 +39,9 @@
 
 | Server Icon | Server Name |
 | ----------- | ----------- |
-| ![](documents/images/ellaw.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
-| ![](documents/images/allaw.png) | [Ali Alafandy ReCreation](https://discord.gg/cwdWXZgCt5) |
-| ![](documents/images/arabi.png) | [سيرفر علي الأفندي](https://discord.gg/dNvYV8zSQs) |
+| ![](documents/images/ellawy.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
+| ![](documents/images/allawy.png) | [Ali Alafandy ReCreation](https://discord.gg/cwdWXZgCt5) |
+| ![](documents/images/arabic.png) | [سيرفر علي الأفندي](https://discord.gg/dNvYV8zSQs) |
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
