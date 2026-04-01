@@ -3,14 +3,15 @@
 --------------------------------------------------------
 
 ## About Me:
-- Yoo Yoo Alio 😎.
-- LGBTQ+ and Gays's Hater.
+- ~LGBTQ+~ and ~Gays~'s Hater.
 - Big fan of Friday Night Funkin'.
+
 --------------------------------------------------------
 
 ## My Works:
 - Friday Night Funkin' Charter.
 - Friday Night Funkin' Coder. "I'm tring bcuz Beginning of that"
+
 --------------------------------------------------------
 
 ## My Favorite Games:
