@@ -1,33 +1,44 @@
-# About Me
+![aliAlafandy](documents/images/waterMark)
+Yoo Yoo Alio 😎.
 --------------------------------------------------------
-## I'm
+## I'm:
 ### Ali Alafandy
 ### YouTuber and Many Activities
 ### An 🇪🇬
 --------------------------------------------------------
-## Age
+## Age:
 ### 16
 --------------------------------------------------------
-## Born
+## Born:
 ### 12/01/2009
 --------------------------------------------------------
-## About Me
+## About Me:
 ### LGBTQ+ and Gays's Hater
 ### Friday Night Funkin' Charter "I tring to be a Coder"
 --------------------------------------------------------
 ## My Favorite Games:
-### Friday Night Funkin'
-### Baldi's Basics
-### Minecraft
-### Among Us
+
+| Game Icon | Game Name |
+| --------- | --------- |
+| ![](documents/apps/FNF) | ![Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) |
+| ![](documents/apps/soNic) | ![Sonic The Hedgehog](https://sega.com/sonic-the-hedgehog) |
+| ![](documents/apps/baldisBasics) | ![Baldi's Basics](https://basically-games.itch.io/baldis-basics) |
+| ![](documents/apps/mineCraft) | ![Minecraft](https://minecraft.net) |
+| ![](documents/apps/amongUs) | ![Among Us](https://innersloth.com/games/among-us) |
+| ![](documents/apps/robLox) | ![Roblox](https://roblox.com) |
 --------------------------------------------------------
 ## My Favorite Hobbies:
+
 ### Art
 ### Game
 --------------------------------------------------------
-## My Server Discord
-- https://discord.gg/ZTH67q6tPT
-- https://discord.gg/cwdWXZgCt5
+## My Server Discord:
+
+| Server Icon | Server Name |
+| ----------- | ----------- |
+| ![](documents/apps/Ali_Neon) | ![](https://discord.gg/ZTH67q6tPT) |
+| ![](documents/apps/Ali_Neo) | ![](https://discord.gg/cwdWXZgCt5) |
+| ![](documents/apps/Ali_Arabic) | ![](https://discord.gg/dNvYV8zSQs) |
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
