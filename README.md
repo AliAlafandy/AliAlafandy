@@ -1,20 +1,22 @@
 ![aliAlafandy](documents/images/waterMark.png)
-Yoo Yoo Alio 😎.
+--------------------------------------------------------
+<details>
+  <summary><h2>Yoo Yoo Alio 😎</h2></summary>
 --------------------------------------------------------
 ## I'm:
-### Ali Alafandy.
-### YouTuber and Many Activities.
-### An 🇪🇬.
+- Ali Alafandy.
+- YouTuber and Many Activities.
+- An 🇪🇬.
 --------------------------------------------------------
 ## Age:
-### 16.
+- 16.
 --------------------------------------------------------
 ## Born:
-### 12/01/2009.
+- 12/01/2009.
 --------------------------------------------------------
 ## About Me:
-### LGBTQ+ and Gays's Hater.
-### Friday Night Funkin' Charter "I'm tring to be a Coder".
+- LGBTQ+ and Gays's Hater.
+- Friday Night Funkin' Charter "I'm tring to be a Coder".
 --------------------------------------------------------
 ## My Favorite Games:
 [![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
@@ -25,9 +27,9 @@ Yoo Yoo Alio 😎.
 [![Roblox](documents/apps/robLox.png)](https://roblox.com)
 --------------------------------------------------------
 ## My Favorite Hobbies:
-### Art.
-### Game.
-### Coding.
+- Art.
+- Game.
+- Coding.
 --------------------------------------------------------
 ## My Socials:
 | Social App | Social Name |
