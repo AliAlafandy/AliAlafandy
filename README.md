@@ -1,7 +1,5 @@
 ![aliAlafandy](documents/images/waterMark.png)
-
-<details>
-  <summary><h2>Yoo Yoo Alio 😎</h2></summary>
+Yoo Yoo Alio 😎.
 --------------------------------------------------------
 ## I'm:
 - Ali Alafandy.
@@ -17,7 +15,6 @@
 ## About Me:
 - LGBTQ+ and Gays's Hater.
 - Friday Night Funkin' Charter "I'm tring to be a Coder".
-</details>
 --------------------------------------------------------
 ## My Favorite Games:
 [![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
@@ -33,11 +30,11 @@
 - Coding.
 --------------------------------------------------------
 ## My Socials:
-| Social App | Social Name |
-| ---------- | ----------- |
-| ![](documents/apps/youTube.png) | [YouTube: Offical Channel](https://youtube.com/@alialafandy) |
-| ![](documents/apps/youTube.png) | [YouTube: Arabic Channel](https://youtube.com/@alialafandyarabic) |
-| ![](documents/apps/disCord.png) | Discord: ``@alialafandy`` |
+| Social App | Social Icon | Social Name |
+| ---------- | ----------- | ----------- |
+| ![](documents/apps/youTube.png) | [](documents/images/ellawy.png) | [YouTube: Offical Channel](https://youtube.com/@alialafandy) |
+| ![](documents/apps/youTube.png) | [](documents/images/arabic.png) | [YouTube: Arabic Channel](https://youtube.com/@alialafandyarabic) |
+| ![](documents/apps/disCord.png) | [](documents/images/ellawy.png) | Discord: ``@alialafandy`` |
 --------------------------------------------------------
 ## My Server Discord:
 | Server Icon | Server Link |
