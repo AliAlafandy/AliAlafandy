@@ -1,4 +1,4 @@
-![aliAlafandy](documents/images/waterMark)
+![aliAlafandy](documents/images/waterMark.png)
 Yoo Yoo Alio 😎.
 --------------------------------------------------------
 ## I'm:
@@ -20,12 +20,12 @@ Yoo Yoo Alio 😎.
 
 | Game Icon | Game Name |
 | --------- | --------- |
-| ![](documents/apps/FNF) | ![Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) |
-| ![](documents/apps/soNic) | ![Sonic The Hedgehog](https://sega.com/sonic-the-hedgehog) |
-| ![](documents/apps/baldisBasics) | ![Baldi's Basics](https://basically-games.itch.io/baldis-basics) |
-| ![](documents/apps/mineCraft) | ![Minecraft](https://minecraft.net) |
-| ![](documents/apps/amongUs) | ![Among Us](https://innersloth.com/games/among-us) |
-| ![](documents/apps/robLox) | ![Roblox](https://roblox.com) |
+| ![](documents/apps/FNF.png) | ![Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) |
+| ![](documents/apps/soNic.png) | ![Sonic The Hedgehog](https://sega.com/sonic-the-hedgehog) |
+| ![](documents/apps/baldisBasics.png) | ![Baldi's Basics](https://basically-games.itch.io/baldis-basics) |
+| ![](documents/apps/mineCraft.png) | ![Minecraft](https://minecraft.net) |
+| ![](documents/apps/amongUs.png) | ![Among Us](https://innersloth.com/games/among-us) |
+| ![](documents/apps/robLox.png) | ![Roblox](https://roblox.com) |
 --------------------------------------------------------
 ## My Favorite Hobbies:
 
@@ -36,9 +36,9 @@ Yoo Yoo Alio 😎.
 
 | Server Icon | Server Name |
 | ----------- | ----------- |
-| ![](documents/apps/Ali_Neon) | ![](https://discord.gg/ZTH67q6tPT) |
-| ![](documents/apps/Ali_Neo) | ![](https://discord.gg/cwdWXZgCt5) |
-| ![](documents/apps/Ali_Arabic) | ![](https://discord.gg/dNvYV8zSQs) |
+| ![](documents/apps/Ali_Neon.png) | ![](https://discord.gg/ZTH67q6tPT) |
+| ![](documents/apps/Ali_Neo.png) | ![](https://discord.gg/cwdWXZgCt5) |
+| ![](documents/apps/Ali_Arabic.png) | ![](https://discord.gg/dNvYV8zSQs) |
 
 <!--
 **AliAlafandy/AliAlafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
