@@ -36,7 +36,7 @@
 
 ## My Server Discord:
 
-| Server Icon | Server Link |
+| Server Icon | Server Name |
 | ----------- | ----------- |
 | ![](documents/images/ellawy.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
 | ![](documents/images/allawy.png) | [Ali Alafandy ReCreation](https://discord.gg/cwdWXZgCt5) |
