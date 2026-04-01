@@ -20,9 +20,9 @@
 ## My Socials:
 | Social App | Social Icon | Social Name |
 | ---------- | ----------- | ----------- |
-| ![](documents/apps/youTube.png) | [](documents/images/ellawy.png) | [YouTube: Offical Channel](https://youtube.com/@alialafandy) |
-| ![](documents/apps/youTube.png) | [](documents/images/arabic.png) | [YouTube: Arabic Channel](https://youtube.com/@alialafandyarabic) |
-| ![](documents/apps/disCord.png) | [](documents/images/ellawy.png) | Discord: ``@alialafandy`` |
+| ![](documents/apps/youTube.png) | ![](documents/images/ellawy.png) | [YouTube: Offical Channel](https://youtube.com/@alialafandy) |
+| ![](documents/apps/youTube.png) | ![](documents/images/arabic.png) | [YouTube: Arabic Channel](https://youtube.com/@alialafandyarabic) |
+| ![](documents/apps/disCord.png) | ![](documents/images/ellawy.png) | Discord: ``@alialafandy`` |
 --------------------------------------------------------
 ## My Server Discord:
 | Server Icon | Server Link |
