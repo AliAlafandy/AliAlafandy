@@ -17,6 +17,7 @@
 ## About Me:
 - LGBTQ+ and Gays's Hater.
 - Friday Night Funkin' Charter "I'm tring to be a Coder".
+</details>
 --------------------------------------------------------
 ## My Favorite Games:
 [![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
