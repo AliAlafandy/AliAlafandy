@@ -1,4 +1,6 @@
+<p align="center">
 ![aliAlafandy](documents/images/waterMark.png)
+</p>
 
 --------------------------------------------------------
 
