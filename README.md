@@ -1,30 +1,41 @@
 ![aliAlafandy](documents/images/waterMark.png)
+
 --------------------------------------------------------
+
 ## About Me:
 - Yoo Yoo Alio 😎.
 - LGBTQ+ and Gays's Hater.
 - Big fan of Friday Night Funkin'.
 --------------------------------------------------------
+
 ## My Works:
 - Friday Night Funkin' Charter.
 - Friday Night Funkin' Coder. "I'm tring bcuz Beginning of that"
 --------------------------------------------------------
+
 ## My Favorite Games:
+
 [![Friday Night Funkin'](documents/apps/FNF.png)](https://ninja-muffin24.itch.io/funkin)
 [![Sonic the Hedgehog](documents/apps/soNic.png)](https://sega.com/sonic-the-hedgehog)
 [![Baldi's Basics](documents/apps/baldisBasics.png)](https://basically-games.itch.io/baldis-basics)
 [![Minecraft](documents/apps/mineCraft.png)](https://minecraft.net)
 [![Among Us](documents/apps/amongUs.png)](https://innersloth.com/games/among-us)
 [![Roblox](documents/apps/robLox.png)](https://roblox.com)
+
 --------------------------------------------------------
+
 ## My Socials:
+
 | Social App | Social Icon | Social Name |
 | ---------- | ----------- | ----------- |
 | ![](documents/apps/youTube.png) | ![](documents/images/ellawy.png) | [YouTube: Offical Channel](https://youtube.com/@alialafandy) |
 | ![](documents/apps/youTube.png) | ![](documents/images/arabic.png) | [YouTube: Arabic Channel](https://youtube.com/@alialafandyarabic) |
 | ![](documents/apps/disCord.png) | ![](documents/images/ellawy.png) | Discord: ``@alialafandy`` |
+
 --------------------------------------------------------
+
 ## My Server Discord:
+
 | Server Icon | Server Link |
 | ----------- | ----------- |
 | ![](documents/images/ellawy.png) | [Ali Alafandy's Server](https://discord.gg/ZTH67q6tPT) |
