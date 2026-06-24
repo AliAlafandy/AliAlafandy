@@ -3,7 +3,6 @@
 --------------------------------------------------------
 
 ## About Me:
-- Big fan of Friday Night Funkin'.
 - https://alialafandy.carrd.co/ "Got Tired cuz many Typing".
 
 --------------------------------------------------------
